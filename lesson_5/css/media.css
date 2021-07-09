@@ -1,0 +1,156 @@
+@media screen and (max-width: 480px) {
+
+
+.header_top-menu, .first_screen-right {
+    display: none;
+}
+    .wrapper {
+        padding: 0 20px;
+    }
+
+    .first_screen-button {
+        position: initial;
+        margin: 50px auto 0;
+    }
+
+    .first_screen-left h1 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+
+    .first_screen-left p {
+        color: #EAEEF2;
+    }
+
+    .first_screen {
+        padding-bottom: 50px;
+        background: pink;
+        height: 30vh;
+    }
+
+    .button_mobile {
+        display: flex;
+
+    }
+
+    .second_screen-grid {
+        height: 10vh;
+    }
+
+    .second_screen-left {
+        display: none;
+    }
+
+    .second_screen-right h2 {
+        font-size: 37px;
+    }
+    .second_screen-right p {
+        font-size: 15px;
+    }
+
+    .wrap_third_screen-items {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+    }
+
+    .wrap_third_screen-item {
+        margin-right: 0;
+    }
+
+    .third_screen-grid {
+        justify-content: center;
+    }
+
+    .third_screen-grid h2 {
+        font-size: 38px;
+        line-height: 38px;
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .wrap_third_screen-button {
+        justify-content: center;
+    }
+
+    .fourth_screen-grid h2 {
+        font-weight: normal;
+        font-size: 38px;
+    }
+
+    .wrap_fourth_screen-items {
+        display: flex;
+        flex-direction: column;
+        padding-top: 30px;
+    }
+
+        .wrap_shop_logos {
+            flex-direction: column;
+            margin-top: 0;
+        }
+
+        .wrap_shop_logos img {
+            padding-top: 10px;
+
+}
+
+        .wrap_sixth_right {
+            display: none;
+        }
+
+    .wrap_sixth_left {
+        justify-content: center;
+        align-items: center;
+    }
+
+        .wrap_sixth_left h2 {
+            padding-top: 50px;
+
+        }
+
+    .wrap_sixth_left button {
+       margin-top: 30px;
+    }
+
+    .blue_section {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .wrap_blue_left {
+        padding-left: 50px;
+        width: 100%;
+
+    }
+
+
+    .wrap_blue_left h2 {
+        font-size: 26px;
+
+    }
+
+    .black_button {
+        margin-top: 20px;
+    }
+
+    .wrap_footer-content {
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    .wrap_footer-content-item {
+
+    }
+
+    .button_footer-logo img {
+        display: none;
+    }
+
+
+
+
+}
